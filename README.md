@@ -1,4 +1,4 @@
-* Descriptions of the scripts *
+Descriptions of the scripts
 
 cropImage.m
 Cropping the whole image into two parts, upper and lower containing 6 chambers
